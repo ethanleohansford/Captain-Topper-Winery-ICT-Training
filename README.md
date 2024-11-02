@@ -52,9 +52,3 @@ The repository is organized to make it easy for you to navigate the training mat
    - Step-by-step troubleshooting for common problems such as external storage recognition and Wi-Fi connectivity.
 
 ---
-
-## 🚀 Getting Started
-
-1. **Clone the Repository**: Download or clone this repository to explore the training materials.
-   ```bash
-   git clone https://github.com/yourusername/captain-topper-winery-ict-training.git
